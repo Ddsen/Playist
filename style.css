@@ -1,0 +1,110 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: rgb(64, 55, 82);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.gate{
+    
+    background: rgb(64, 55, 82);
+    padding: 20px;
+    padding-left: 100px;
+    display: flex;
+    color: white;
+}
+
+.rant{
+    margin-left: 20px;
+    text-decoration: none;
+    color: white;
+}
+
+.hope{
+    margin-left: 800px;
+    margin-top: 20px;
+}
+
+.meta{
+    margin-left: 200px;
+    margin-top: 50px;
+
+}
+
+.kola{
+    display: flex;
+    color: wheat;
+}
+
+.heap{
+    text-align: center;
+    padding-top: 27px;
+}
+
+.give{
+    margin-left: 630px;
+    margin-top: 70px;
+}
+.july{
+    width: 170px;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+    border-radius: 100%;
+    margin-top: 150px;
+    margin-left: 595px;
+}
+
+.back:hover{
+    background-color: yellow;
+    box-shadow: 0px 0px 5px yellow , 0px 0px 10px yellow ,0px 0px 15px yellow;
+}
+
+.back{
+    margin: auto;
+    padding: 17px 50px;
+    font-size: 14px;
+    border: none;
+    cursor: pointer;
+    margin-top: 20px;
+    border-radius: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.cord{
+    width: 300px;
+    height: 300px;
+    border-radius: 30px;
+    margin-left: 350px;
+    margin-top: 30px;             
+}
+
+.neat{
+    margin-left: -300px;
+    margin-top: 60px;
+    margin-bottom: 170px;
+    color: white;
+}
+
+.book{
+    width: 55px;
+    height: 55px;
+    margin-top: 4px;
+    margin-left: -43px;
+}
+
+.nest{
+    margin-left: -17px;
+    font-size: 30px;
+    font-weight: 400px;
+    margin-top: px;
+}
+
+.tent{
+    width: 300px;
+    height: 100px;
+    margin-top: 180px;
+    margin-left: 50px;
+
+}
